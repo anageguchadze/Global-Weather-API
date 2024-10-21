@@ -30,4 +30,4 @@ The Weather API is a simple web service built using Django that allows users to 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/anageguchadze/weather-api.git
+   git clone https://github.com/anageguchadze/Global-Weather-API
